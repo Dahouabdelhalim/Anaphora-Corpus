@@ -1,1 +1,1 @@
-# Anaphora-Corpus
+# Arabic Annotated Anaphora Corpus
